@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://Youn7460.github.io/"/>
-  <updated>2018-05-07T13:58:54.740Z</updated>
+  <updated>2018-05-07T15:19:08.728Z</updated>
   <id>https://Youn7460.github.io/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>github-page-index</title>
+    <link href="https://Youn7460.github.io/2018/05/08/github-page-index/"/>
+    <id>https://Youn7460.github.io/2018/05/08/github-page-index/</id>
+    <published>2018-05-07T15:19:08.000Z</published>
+    <updated>2018-05-07T15:19:08.728Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
