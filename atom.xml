@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>�ȳ� ���α׷���</title>
+  <title>�ξ ����</title>
   
-  <subtitle>��ΰ� ���α׷��ֿ��� �����ο����� �� ������</subtitle>
+  <subtitle>inus school</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://Youn7460.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://Youn7460.github.io/</id>
   
   <author>
-    <name>Minhyeok Jung</name>
+    <name>YoungGwan Youn</name>
     
   </author>
   
